@@ -21,6 +21,7 @@ sdist/
 var/
 env/
 venv/
+.streamlit/
 wheels/
 share/python-wheels/
 *.egg-info/
