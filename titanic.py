@@ -6,7 +6,7 @@ import seaborn as sns
 # Carga de datos
 @st.cache_data
 def load_data():
-    data = pd.read_csv("train.csv")
+    data = pd.read_csv("./train.csv")
     return data
 
 # Título de la aplicación
